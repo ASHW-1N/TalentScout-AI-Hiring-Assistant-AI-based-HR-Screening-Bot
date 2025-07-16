@@ -10,8 +10,11 @@ An intelligent chatbot for initial candidate screening, powered by LLaMA3 and St
 
 ## ✨ Features
 
-- **Smart Interview Flow**  
-  ![Interview Flow Demo Video](https://drive.google.com/file/d/1qKKTy4aGKmsjs3nxFtbK89eKd00rKFI4/view?usp=sharing)
+- **Smart Interview Flow**
+- ## 🎥 Demo Video
+
+[![Watch the Demo](https://img.shields.io/badge/▶️ Watch_Demo_on_Google_Drive-00c853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1qKKTy4aGKmsjs3nxFtbK89eKd00rKFI4/view?usp=sharing)
+
   - Multi-stage conversation (info collection → HR questions → technical evaluation)
   - Context-aware question generation
   - Dynamic difficulty based on experience level
