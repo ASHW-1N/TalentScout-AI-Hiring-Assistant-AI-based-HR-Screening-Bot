@@ -1,6 +1,6 @@
 # TalentScout AI Hiring Assistant 🤖
 
-![TalentScout Banner](https://via.placeholder.com/1200x400/2563eb/ffffff?text=TalentScout+AI+Hiring+Assistant)
+
 
 An intelligent chatbot for initial candidate screening, powered by LLaMA3 and Streamlit. This AI assistant conducts technical interviews, evaluates candidates, and generates detailed reports.
 
