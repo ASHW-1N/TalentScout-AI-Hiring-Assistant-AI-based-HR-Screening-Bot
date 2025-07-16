@@ -44,3 +44,13 @@ graph TD
     D --> I
     E --> I
     F --> I
+
+talent-scout/
+├── main.py                  # Main application logic
+├── README.md                # Project documentation
+├── .env                     # Environment variables
+├── requirements.txt         # Python dependencies
+├── candidates/              # Generated reports storage
+│   ├── {name}_report.json   # JSON candidate reports
+│   └── {name}_report.pdf    # PDF candidate reports
+└── hr_interview_questions_dataset.json  # HR questions database
