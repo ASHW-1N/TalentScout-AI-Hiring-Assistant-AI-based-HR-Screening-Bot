@@ -11,19 +11,17 @@ An intelligent chatbot for initial candidate screening, powered by LLaMA3 and St
 ## ✨ Features
 
 - **Smart Interview Flow**  
-  ![Interview Flow GIF](https://via.placeholder.com/600x300/2563eb/ffffff?text=Interview+Flow+Demo)
+  ![Interview Flow GIF](https://drive.google.com/file/d/1qKKTy4aGKmsjs3nxFtbK89eKd00rKFI4/view?usp=sharing)
   - Multi-stage conversation (info collection → HR questions → technical evaluation)
   - Context-aware question generation
   - Dynamic difficulty based on experience level
 
 - **Technical Assessment**  
-  ![Tech Questions](https://via.placeholder.com/300x200/2563eb/ffffff?text=Tech+Questions)
   - Generates 3-5 questions per technology
   - Includes scenario-based questions
   - Covers both theory and practical knowledge
 
 - **Comprehensive Evaluation**  
-  ![Evaluation Report](https://via.placeholder.com/300x200/2563eb/ffffff?text=Evaluation+Report)
   - Scores technical competence (70%)
   - Assesses communication skills (20%)
   - Evaluates cultural fit (10%)
